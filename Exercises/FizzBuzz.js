@@ -26,7 +26,6 @@ function fizzBuzz(input){
     return input;
 }
 
-
 const output = fizzBuzz('number');
 console.log(output);
 
